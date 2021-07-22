@@ -1,0 +1,28 @@
+{
+  "isBlocking": true,
+  "isDeleted": false,
+  "isEnabled": true,
+  "isEnterpriseManaged": false,
+  "revision": 1,
+  "settings": {
+    "displayName": "Minimum number of reviewers",
+    "allowDownvotes": false,
+    "blockLastPusherVote": false,
+    "creatorVoteCounts": true,
+    "minimumApproverCount": 1,
+    "requireVoteOnLastIteration": false,
+    "resetOnSourcePush": false,
+    "resetRejectionsOnSourcePush": false,
+    "scope": [
+      {
+        "matchKind": "Exact",
+        "refName": "refs/heads/main",
+        "repositoryId": ""
+      }
+    ]
+  },
+  "type": {
+    "displayName": "Minimum number of reviewers",
+    "id": "xxxxxxxxx_replace_xxxxxxxxx"
+  }
+}

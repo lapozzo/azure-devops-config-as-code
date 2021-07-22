@@ -1,0 +1,25 @@
+{
+  "isBlocking": true,
+  "isDeleted": false,
+  "isEnabled": true,
+  "isEnterpriseManaged": false,
+  "revision": 1,
+  "settings": {
+    "buildDefinitionId": 5,
+    "displayName": "Build Validation",
+    "manualQueueOnly": false,
+    "queueOnSourceUpdateOnly": true,
+    "scope": [
+      {
+        "matchKind": "Exact",
+        "refName": "refs/heads/main",
+        "repositoryId": ""
+      }
+    ],
+    "validDuration": 720.0
+  },
+  "type": {
+    "displayName": "Build",
+    "id": "xxxxxxxxx_replace_xxxxxxxxx"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "isBlocking": true,
+  "isDeleted": false,
+  "isEnabled": true,
+  "isEnterpriseManaged": false,
+  "revision": 1,
+  "settings": {
+    "displayName": "Required reviewers",
+    "creatorVoteCounts": true,
+    "minimumApproverCount": 1,
+    "requiredReviewerIds": [],
+    "scope": [
+      {
+        "matchKind": "Exact",
+        "refName": "refs/heads/main",
+        "repositoryId": ""
+      }
+    ]
+  },
+  "type": {
+    "displayName": "Required reviewers",
+    "id": "xxxxxxxxx_replace_xxxxxxxxx"
+  }
+}
